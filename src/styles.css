@@ -10,6 +10,17 @@ button, select {
   margin: 15px;
 }
 
+.btn-info {
+  background-color: #8080ff;
+  border-color: #ccccff;
+  border-width: medium;
+}
+
+.btn-info:hover {
+  background-color: #4d4dff;
+  border-color: #8080ff;
+}
+
 #trivia {
   width: 330px;
   display: block;
