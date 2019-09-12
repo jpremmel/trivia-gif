@@ -1,12 +1,12 @@
-# _Dino Generator_
+# _Trivia Gifs_
 
-#### _A page that generates a random dinosaur name, gif, and fact, 12 Sept 2019_
+#### _A page that generates trivia questions and gifs, 12 Sept 2019_
 
 #### By _**Lauren Musante and Jacqueline Remmel**_
 
 ## Description
 
-_The primary purpose of this project was to practice making API calls._
+_This page generates a trivia question based on the user's preferences for category and difficulty level. Based on the answer to the question, it then generates a gif. The primary purpose of this project was to practice chaining API calls._
 
 ## Setup/Installation Requirements
 
@@ -17,7 +17,7 @@ _The primary purpose of this project was to practice making API calls._
 * _In the project directory, create a file called ".env"_
 * _Open the .env file and store your API key using the format "API_KEY = your-API-key-here"_
 * _Save the .env file_
-* _Run the command "npm run start"
+* _Run the command "npm run start"_
 
 ## Technologies Used
 
