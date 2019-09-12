@@ -1,0 +1,8 @@
+
+.trivia-output, .gif-output {
+  display: none;
+}
+
+button, select {
+  margin: 15px;
+}
