@@ -7,7 +7,7 @@
     <div class="container">
       <h1>Trivia GIFs!<h1>
         <form id="trivia">
-          <h3>Select your trivia topic:</h3>
+          <h4>Select your trivia topic:</h4>
             <select class="form-control" id="categories">
               <option value="">Any Category</option>
               <option value="9">General Knowledge</option>
@@ -44,7 +44,10 @@
             <button type="submit" class="btn btn-info">Submit</button>
         </form>
         <div class="trivia-output" id="trivia-question"></div>
-        <button class="trivia-output btn btn-info">Show Answer</button>
+        <button class="btn btn-info" id="show-options">Show Answer Options</button>
+        <button class="trivia-output btn btn-info" id="show-answer">Show Correct Answer</button>
+        <div class="answer-options"></div>
+        <div class="answer-output"></div>
         <div class="gif-output"></div>
     </div>
   </body>
